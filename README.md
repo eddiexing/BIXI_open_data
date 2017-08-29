@@ -6,4 +6,4 @@ Data analysis based on BIXI open data
 This project is to recreate BIXI data viz by Python (matplotlib.pyplot)
 https://montreal.bixi.com/en/open-data
 
-BIXI_open_data/1_purchases bar chart by month.png
+![Purchases bar chart by month] (https://github.com/eddiexxx/BIXI_open_data/blob/master/1_purchases%20bar%20chart%20by%20month.png)
